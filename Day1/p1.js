@@ -1,0 +1,1 @@
+const a = "This is a backend training method"
